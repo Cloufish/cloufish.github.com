@@ -25,10 +25,10 @@ tagline: My own internet corner :)    # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A place where I talk about Embedded Programming,
-  Secure and Safe Coding
+  Secure and Safe Code
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://cloufish.github.io'
+url: "https://cloufish.github.io"
 
 github:
   username: Cloufish             # change to your github username
